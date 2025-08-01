@@ -20,5 +20,93 @@
       "Builder": "You get things done like no one else.",
       "Connector": "You bring people together effortlessly."
     }
+  },
+  {
+    "question": "What\u2019s your natural role in a group setting?",
+    "options": {
+      "Explorer": "The one suggesting something exciting or new.",
+      "Nurturer": "Checking in on how everyone is feeling.",
+      "Creator": "Capturing the moment or telling the story.",
+      "Seeker": "Asking big questions no one else thought of.",
+      "Builder": "Making sure everything is organized and works.",
+      "Connector": "Introducing people who should know each other."
+    }
+  },
+  {
+    "question": "Which of these energizes you the most?",
+    "options": {
+      "Explorer": "Exploring a new location or experience.",
+      "Nurturer": "Helping someone one-on-one.",
+      "Creator": "Diving into something hands-on or expressive.",
+      "Seeker": "Learning something philosophical or profound.",
+      "Builder": "Fixing a system or solving a problem.",
+      "Connector": "Hosting a group or sparking discussion."
+    }
+  },
+  {
+    "question": "Which scenario sounds most fulfilling?",
+    "options": {
+      "Explorer": "Backpacking through a country I\u2019ve never visited.",
+      "Nurturer": "Volunteering at a local community center.",
+      "Creator": "Launching an online shop or exhibition of my work.",
+      "Seeker": "Attending a weekend retreat or deep-dive course.",
+      "Builder": "Starting a local project with real-world results.",
+      "Connector": "Building a group or club around shared interests."
+    }
+  },
+  {
+    "question": "What frustrates you the most about post-work life?",
+    "options": {
+      "Explorer": "Feeling stuck in a routine.",
+      "Nurturer": "Feeling like no one needs me.",
+      "Creator": "Not having an outlet for expression.",
+      "Seeker": "Feeling intellectually unstimulated.",
+      "Builder": "Lack of structure or purpose.",
+      "Connector": "Social isolation or small talk."
+    }
+  },
+  {
+    "question": "What\u2019s something you\u2019ve always wanted to do?",
+    "options": {
+      "Explorer": "Live abroad or take a solo trip.",
+      "Nurturer": "Mentor someone or support a cause I believe in.",
+      "Creator": "Write a book, start a YouTube channel, or paint a mural.",
+      "Seeker": "Study philosophy, mindfulness, or world religions.",
+      "Builder": "Renovate a home, start a workshop, or fix systems.",
+      "Connector": "Create a podcast, mastermind, or speaker series."
+    }
+  },
+  {
+    "question": "Which role did you often play in your work life?",
+    "options": {
+      "Explorer": "The risk-taker or experimenter.",
+      "Nurturer": "The people-person or coach.",
+      "Creator": "The visionary or ideas person.",
+      "Seeker": "The wise one or devil\u2019s advocate.",
+      "Builder": "The planner or implementer.",
+      "Connector": "The bridge-builder or recruiter."
+    }
+  },
+  {
+    "question": "What kind of content are you most drawn to now?",
+    "options": {
+      "Explorer": "Travel vlogs, adventure documentaries.",
+      "Nurturer": "Human interest stories, well-being advice.",
+      "Creator": "DIY, design, or artistic inspiration.",
+      "Seeker": "TED Talks, books that change your thinking.",
+      "Builder": "Life hacks, how-tos, or systems design.",
+      "Connector": "Talk shows, interviews, and real conversations."
+    }
+  },
+  {
+    "question": "What do you secretly wish more people knew about you?",
+    "options": {
+      "Explorer": "I still crave adventure.",
+      "Nurturer": "I care more than I let on.",
+      "Creator": "I have so many ideas inside me.",
+      "Seeker": "I\u2019m still asking big questions.",
+      "Builder": "I want to build something meaningful.",
+      "Connector": "I miss deep conversation."
+    }
   }
 ]
