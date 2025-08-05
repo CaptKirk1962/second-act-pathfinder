@@ -39,7 +39,6 @@ if st.session_state.page < len(questions):
         if st.button(answer, key=f"{st.session_state.page}-{archetype}"):
             st.session_state.responses.append(archetype)
             st.session_state.page += 1
-            st.experimental_rerun()
 else:
     # Determine archetype result
     result = Counter(st.session_state.responses).most_common(1)[0][0]
